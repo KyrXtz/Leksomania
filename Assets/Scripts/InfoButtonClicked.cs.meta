@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5c166aedbc12ea74e87478a07556330d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WordSearchView: {fileID: 4715392393341812536, guid: 8e40cca9a7d49f94bb542ef37c6b01b4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
